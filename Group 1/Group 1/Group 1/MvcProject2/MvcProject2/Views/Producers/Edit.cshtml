@@ -1,0 +1,79 @@
+﻿@using MvcProject2.Models;
+@model Producer
+
+@{
+    ViewData["Title"] = "Update producer";
+}
+<head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Montserrat:wght@100;400;800&display=swap">
+</head>
+<style>
+    body {
+        background: url('../Images/body-bg.gif');
+        background: black;
+        color: white;
+    }
+</style>
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h1>Update Producer</h1>
+        </p>
+        <div class="row">
+            <div class="col-md-8 offset-2">
+                
+                    <div class="form-group text-center">
+                        <img id="ProfilePicturePreview"  class="border-info rounded-circle" style="width: 150px;height:150px" />
+                    </div>
+
+                     <div class="form-group d-none">
+                        <label asp-for="ProfilePictureURL" class="control-label"></label>
+                        <input asp-for="ProfilePictureURL" class="form-control" />
+                        <span asp-validation-for="ProfilePictureURL" class="text-danger"></span>
+                    </div>
+                
+                <form asp-action="Edit" asp-controller="Producers" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="FullName" class="control-label"></label>
+                        <input asp-for="FullName" class="form-control" />
+                        <span asp-validation-for="FullName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label   class="control-label">Picture Image</label>
+                        <div class="custom-file">
+                            <input  type="file" name="image" id="image" class="form-control" />
+                        </div>
+                        <span asp-validation-for="ProfilePictureURL" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Bio" class="control-label"></label>
+                        <textarea asp-for="Bio" class="form-control"></textarea>
+                        <span asp-validation-for="Bio" class="text-danger"></span>
+                    </div>
+                   <div class="form-group">
+                        <input type="submit" value="Update" class="btn btn-outline-success float-right" />
+                        <a class="btn btn-outline-secondary" asp-action="Index">Show All</a>
+                    </div>  
+                    
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{ 
+    <script>
+
+        $(document).ready(function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $("#ProfilePictureURL").val();
+        })
+
+        $("#ProfilePictureURL").on("change", function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $(this).val();
+        })
+    </script>
+}

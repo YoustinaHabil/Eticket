@@ -1,0 +1,634 @@
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.Development.json
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.json
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.staticwebassets.runtime.json
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.exe
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.deps.json
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.runtimeconfig.json
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.pdb
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Core.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Identity.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Humanizer.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.CodeDom.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Memory.Data.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Json.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.build.json
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.development.json
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\bundle\MvcProject2.styles.css
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\projectbundle\MvcProject2.bundle.scp.css
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CopyComplete
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.genruntimeconfig.cache
+F:\ITI\MVC project\MvcProject2\MvcProject2\obj\Debug\net6.0\ref\MvcProject2.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.Development.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.staticwebassets.runtime.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.exe
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.deps.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.runtimeconfig.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Core.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Identity.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Humanizer.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Json.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.MvcProject2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.build.MvcProject2.props
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvcProject2.props
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvcProject2.props
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\bundle\MvcProject2.styles.css
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\projectbundle\MvcProject2.bundle.scp.css
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CopyComplete
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.genruntimeconfig.cache
+D:\ITI .NET\MVC\MvcProject2\MvcProject2\obj\Debug\net6.0\ref\MvcProject2.dll
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+D:\Dowmloads2\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.json
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.staticwebassets.runtime.json
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.exe
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.deps.json
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.runtimeconfig.json
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.pdb
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\bundle\MvcProject2.styles.css
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\projectbundle\MvcProject2.bundle.scp.css
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CopyComplete
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.genruntimeconfig.cache
+C:\Users\tadro\Downloads\MvcProject2 (3)\MvcProject2 (3)\MvcProject2\MvcProject2\obj\Debug\net6.0\ref\MvcProject2.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.json
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.staticwebassets.runtime.json
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.exe
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.deps.json
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.runtimeconfig.json
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.pdb
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\bundle\MvcProject2.styles.css
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\projectbundle\MvcProject2.bundle.scp.css
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CopyComplete
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.genruntimeconfig.cache
+C:\Users\tadro\Desktop\MvcProject2\MvcProject2\obj\Debug\net6.0\ref\MvcProject2.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.Development.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.staticwebassets.runtime.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.exe
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.deps.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.runtimeconfig.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Core.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Identity.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Humanizer.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Json.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.MvcProject2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.build.MvcProject2.props
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvcProject2.props
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvcProject2.props
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\bundle\MvcProject2.styles.css
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CopyComplete
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.genruntimeconfig.cache
+D:\ITI .NET\MVC\tadros\MvcProject2\MvcProject2\obj\Debug\net6.0\ref\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.Development.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.staticwebassets.runtime.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.exe
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.deps.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.runtimeconfig.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Core.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Identity.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Humanizer.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Json.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.MvcProject2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.build.MvcProject2.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvcProject2.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvcProject2.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\bundle\MvcProject2.styles.css
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CopyComplete
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.genruntimeconfig.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\ref\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.Development.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\appsettings.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.staticwebassets.runtime.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.exe
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.deps.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.runtimeconfig.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Core.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Azure.Identity.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Humanizer.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Text.Json.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.AssemblyReference.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfoInputs.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.AssemblyInfo.cs
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CoreCompileInputs.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.RazorAssemblyInfo.cs
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.MvcProject2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.build.MvcProject2.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvcProject2.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvcProject2.props
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\scopedcss\bundle\MvcProject2.styles.css
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.csproj.CopyComplete
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\refint\MvcProject2.dll
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.pdb
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\MvcProject2.genruntimeconfig.cache
+D:\ITI .NET\MVC\Group One\Group One\Group 1\MvcProject2\MvcProject2\obj\Debug\net6.0\ref\MvcProject2.dll

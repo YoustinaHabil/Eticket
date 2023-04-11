@@ -1,0 +1,93 @@
+﻿@model MvcProject2.ViewModels.NewMovieVM
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Montserrat:wght@100;400;800&display=swap">
+</head>
+<style>
+    body {
+        background: url('../Images/body-bg.gif');
+        background: black;
+        color: white;
+    }
+</style>
+<h1>Edit</h1>
+
+<h4>Movie</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" asp-controller="Movies" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                                <label class="control-label">Picture Image</label>
+                                <div class="custom-file">
+                                    <input type="file" name="image" id="image" class="form-control" />
+                                </div>
+                                <span asp-validation-for="ImageURL" class="text-danger"></span>
+                            </div>
+            <div class="form-group">
+                <label asp-for="StartDate" class="control-label"></label>
+                <input asp-for="StartDate" class="form-control" />
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate" class="control-label"></label>
+                <input asp-for="EndDate" class="form-control" />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MovieCategory" class="control-label"></label>
+                <select asp-for="MovieCategory" class="form-control" asp-items="ViewBag.Categories"></select>
+                <span asp-validation-for="MovieCategory" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CinemaId" class="control-label"></label>
+                <select asp-for="CinemaId" class="form-control" asp-items="ViewBag.Cinemas"></select>
+                <span asp-validation-for="CinemaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProducerId" class="control-label"></label>
+                <select asp-for="ProducerId" class="form-control" asp-items="ViewBag.Producers"></select>
+                <span asp-validation-for="ProducerId" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="ActorIds" class="control-label"></label>
+                <select asp-for="ActorIds" class="form-control" asp-items="ViewBag.Actors"></select>
+                <span asp-validation-for="ActorIds" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

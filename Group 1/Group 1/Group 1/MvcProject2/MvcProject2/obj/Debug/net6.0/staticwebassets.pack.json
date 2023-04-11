@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\11201730182624385707741.jpg",
+      "PackagePath": "staticwebassets\\Images\\11201730182624385707741.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 1.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor 1.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Actor 2.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Actor 3.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Actor 4.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 5.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor 5.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 6.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor 6.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Actor 7.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 7.webp",
+      "PackagePath": "staticwebassets\\Images\\Actor 7.webp"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 8 (2).jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor 8 (2).jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor 8.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor 8.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor10.jpg",
+      "PackagePath": "staticwebassets\\Images\\Actor10.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Actor11.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor12.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor12.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor13.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor13.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Actor9.jfif",
+      "PackagePath": "staticwebassets\\Images\\Actor9.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Movie1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movie1.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Movie2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movie2.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Movie3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movie3.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Movie4.jfif",
+      "PackagePath": "staticwebassets\\Images\\Movie4.jfif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Movie5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Movie5.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\Movie6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Movie6.jpg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\body-bg.gif",
+      "PackagePath": "staticwebassets\\Images\\body-bg.gif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\cinema-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cinema-1.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\cinema-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cinema-2.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\cinema-3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cinema-3.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\cinema-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cinema-4.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\cinema-5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cinema-5.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\logo_Desktop.svg",
+      "PackagePath": "staticwebassets\\Images\\logo_Desktop.svg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\producer-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\producer-1.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\producer-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\producer-2.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\producer-3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\producer-3.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\producer-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\producer-4.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\Images\\producer-5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\producer-5.jpeg"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\assets\\body-bg.gif",
+      "PackagePath": "staticwebassets\\assets\\body-bg.gif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\assets\\stars.gif",
+      "PackagePath": "staticwebassets\\assets\\stars.gif"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\js\\jquery-1.4.2.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.4.2.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\js\\jquery-func.js",
+      "PackagePath": "staticwebassets\\js\\jquery-func.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ITI .NET\\MVC\\Group One\\Group One\\Group 1\\Group 1\\MvcProject2\\MvcProject2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MvcProject2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MvcProject2.props",
+      "PackagePath": "build\\MvcProject2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcProject2.props",
+      "PackagePath": "buildMultiTargeting\\MvcProject2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MvcProject2.props",
+      "PackagePath": "buildTransitive\\MvcProject2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
